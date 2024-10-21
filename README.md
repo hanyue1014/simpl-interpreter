@@ -5,8 +5,12 @@ Inspired by [@ThePrimeagen](https://github.com/theprimeagen), specifically [DIC]
 - To take my knowledge of different programming languages I have learnt into **test**
 - I have always wanted to try make a language, and an interpreted one seems to be the easiest way to get into
 
-## Based on (book)
+## (Originally wanted to) Based on (book)
 [Crafting Interpreters](https://craftinginterpreters.com)
+
+## Currently Following a Playlist
+[Create Your Own Programming Language](https://youtube.com/playlist?list=PLCeDGOId_Kkh4boTj5rGeVn1HQWkzVj_h&si=fRViv6DcHGDNGX9_)
+> To this date, a combination of both may be involved
 
 ## Language Specs
 > I modified the syntax introduced in the book a bit (making it closer to my preference), removing certain language features (that maybe will be added back in the future) 
